@@ -1,2 +1,2 @@
-# Entre-Libras
+# Entre-sinais
 Projeto de UC1 
